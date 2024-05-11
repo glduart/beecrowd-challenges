@@ -1,1 +1,1 @@
-Resolução dos exércicios do site BeeCrowd
+Resolução dos exercícios do site BeeCrowd
